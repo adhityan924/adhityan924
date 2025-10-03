@@ -52,12 +52,6 @@ Key Coursework: Data Structures, Machine Learning, Big Data, AI, Cloud Computing
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Adhityan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhityan924&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhityan924&layout=compact&theme=radical)
-
 ## 🔥 Featured Projects
 
 ### 🎤 [Audio Proctor System](https://github.com/adhityan924/AudioProctorSystem)
